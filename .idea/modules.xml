@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aweme.iml" filepath="$PROJECT_DIR$/Aweme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Aweme-app.iml" filepath="$PROJECT_DIR$/app/Aweme-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/Aweme-data.iml" filepath="$PROJECT_DIR$/data/Aweme-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/Aweme-domain.iml" filepath="$PROJECT_DIR$/domain/Aweme-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/Aweme-library.iml" filepath="$PROJECT_DIR$/library/Aweme-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presentation/Aweme-presentation.iml" filepath="$PROJECT_DIR$/presentation/Aweme-presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presentation/presentation.iml" filepath="$PROJECT_DIR$/presentation/presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-Aweme.iml" filepath="$PROJECT_DIR$/project-Aweme.iml" />
+    </modules>
+  </component>
+</project>
